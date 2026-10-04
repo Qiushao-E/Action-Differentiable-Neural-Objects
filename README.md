@@ -2,7 +2,7 @@
 
 ## Reconstruction
 
-Keypoint projections and reconstructed geometry for 10 rigid objects, 10 skinned objects, and 10 soft bodies.
+Keypoint projections and reconstructed geometry for 10 rigid objects, 8 skinned objects, and 10 soft bodies.
 
 ### Rigid objects
 
@@ -32,13 +32,9 @@ Keypoint projections and reconstructed geometry for 10 rigid objects, 10 skinned
 | :---: | :---: |
 | [![Bovidae](media/reconstruction/skinning/smal_bovidae.gif)](media/reconstruction/skinning/smal_bovidae.png) | [![Canidae](media/reconstruction/skinning/smal_canidae.gif)](media/reconstruction/skinning/smal_canidae.png) |
 
-| Canidae II | Equidae |
+| Equidae | Felidae |
 | :---: | :---: |
-| [![Canidae II](media/reconstruction/skinning/smal_canidae_02.gif)](media/reconstruction/skinning/smal_canidae_02.png) | [![Equidae](media/reconstruction/skinning/smal_equidae.gif)](media/reconstruction/skinning/smal_equidae.png) |
-
-| Equidae II | Felidae |
-| :---: | :---: |
-| [![Equidae II](media/reconstruction/skinning/smal_equidae_02.gif)](media/reconstruction/skinning/smal_equidae_02.png) | [![Felidae](media/reconstruction/skinning/smal_felidae.gif)](media/reconstruction/skinning/smal_felidae.png) |
+| [![Equidae](media/reconstruction/skinning/smal_equidae.gif)](media/reconstruction/skinning/smal_equidae.png) | [![Felidae](media/reconstruction/skinning/smal_felidae.gif)](media/reconstruction/skinning/smal_felidae.png) |
 
 | Felidae II | Hippopotamidae |
 | :---: | :---: |
